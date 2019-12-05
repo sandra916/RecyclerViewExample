@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "173902044561",
+    "firebase_url": "https://proyectoprueba-ede81.firebaseio.com",
+    "project_id": "proyectoprueba-ede81",
+    "storage_bucket": "proyectoprueba-ede81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173902044561:android:8b63cc94b2cdfe7a838e30",
+        "android_client_info": {
+          "package_name": "com.sandra.ejemplorecyclerview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173902044561-oscfue0g9j3n5n4b40fhnek36pi5dkfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDphSTTVgZaIVSUZSiXYm296hDMLul74AI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173902044561-oscfue0g9j3n5n4b40fhnek36pi5dkfi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
